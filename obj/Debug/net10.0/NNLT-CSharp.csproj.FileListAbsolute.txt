@@ -1,0 +1,14 @@
+C:\Users\hongn\Downloads\NNLT-CSharp\bin\Debug\net10.0\NNLT-CSharp.exe
+C:\Users\hongn\Downloads\NNLT-CSharp\bin\Debug\net10.0\NNLT-CSharp.deps.json
+C:\Users\hongn\Downloads\NNLT-CSharp\bin\Debug\net10.0\NNLT-CSharp.runtimeconfig.json
+C:\Users\hongn\Downloads\NNLT-CSharp\bin\Debug\net10.0\NNLT-CSharp.dll
+C:\Users\hongn\Downloads\NNLT-CSharp\bin\Debug\net10.0\NNLT-CSharp.pdb
+C:\Users\hongn\Downloads\NNLT-CSharp\obj\Debug\net10.0\NNLT-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hongn\Downloads\NNLT-CSharp\obj\Debug\net10.0\NNLT-CSharp.AssemblyInfoInputs.cache
+C:\Users\hongn\Downloads\NNLT-CSharp\obj\Debug\net10.0\NNLT-CSharp.AssemblyInfo.cs
+C:\Users\hongn\Downloads\NNLT-CSharp\obj\Debug\net10.0\NNLT-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\hongn\Downloads\NNLT-CSharp\obj\Debug\net10.0\NNLT-CSharp.dll
+C:\Users\hongn\Downloads\NNLT-CSharp\obj\Debug\net10.0\refint\NNLT-CSharp.dll
+C:\Users\hongn\Downloads\NNLT-CSharp\obj\Debug\net10.0\NNLT-CSharp.pdb
+C:\Users\hongn\Downloads\NNLT-CSharp\obj\Debug\net10.0\NNLT-CSharp.genruntimeconfig.cache
+C:\Users\hongn\Downloads\NNLT-CSharp\obj\Debug\net10.0\ref\NNLT-CSharp.dll
