@@ -1,5 +1,4 @@
 using System;
-
 class NhanVien
 {
     private string hoTen;

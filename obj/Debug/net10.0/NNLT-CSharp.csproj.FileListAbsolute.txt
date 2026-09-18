@@ -12,3 +12,4 @@ C:\Users\hongn\Downloads\NNLT-CSharp\obj\Debug\net10.0\refint\NNLT-CSharp.dll
 C:\Users\hongn\Downloads\NNLT-CSharp\obj\Debug\net10.0\NNLT-CSharp.pdb
 C:\Users\hongn\Downloads\NNLT-CSharp\obj\Debug\net10.0\NNLT-CSharp.genruntimeconfig.cache
 C:\Users\hongn\Downloads\NNLT-CSharp\obj\Debug\net10.0\ref\NNLT-CSharp.dll
+C:\Users\hongn\Downloads\NNLT-CSharp\obj\Debug\net10.0\NNLT-CSharp.sourcelink.json
