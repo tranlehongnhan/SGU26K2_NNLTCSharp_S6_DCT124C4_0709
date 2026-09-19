@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NNLT-CSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15e0bf4e1cd64ef74e46e2750ad9d10c2cbfd5c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+317b3829db50385589f038f4556060d2a400105f")]
 [assembly: System.Reflection.AssemblyProductAttribute("NNLT-CSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NNLT-CSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
